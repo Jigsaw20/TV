@@ -2,9 +2,9 @@
 
 <channels> 
 <channel> 
-<name>[B] [/B]</name> 
+<name>[B]Filmy 1[/B]</name> 
 <thumbnail> </thumbnail> 
-<externallink>      </externallink> 
+<externallink>https://raw.githubusercontent.com/Jigsaw20/M3U/main/Filmy_1.m3u</externallink> 
 <fanart>  </fanart> 
 <info></info> 
 </channel>
