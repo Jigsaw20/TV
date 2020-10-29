@@ -2,9 +2,18 @@
 
 <channels> 
 <channel> 
-<name>[B]Telewizja[/B]</name> 
+<name>[B]Telewizja 1[/B]</name> 
 <thumbnail>https://ia601408.us.archive.org/35/items/icon_20201024/icon.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Jigsaw20/M3U/main/TV_1.m3u</externallink> 
+<fanart>https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Telewizja 2[/B]</name> 
+<thumbnail>https://ia601408.us.archive.org/35/items/icon_20201024/icon.png</thumbnail> 
+<externallink>https://pastebin.com/raw/fhWTyHE3</externallink> 
 <fanart>https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg</fanart> 
 <info></info> 
 </channel>
@@ -14,6 +23,15 @@
 <name>[B]Filmy[/B]</name> 
 <thumbnail>https://ia601408.us.archive.org/35/items/icon_20201024/icon.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Jigsaw20/M3U/main/Filmy_1.m3u</externallink> 
+<fanart>https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Seriale[/B]</name> 
+<thumbnail>https://ia601408.us.archive.org/35/items/icon_20201024/icon.png</thumbnail> 
+<externallink>https://pastebin.com/raw/mwAEe864</externallink> 
 <fanart>https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg</fanart> 
 <info></info> 
 </channel>
