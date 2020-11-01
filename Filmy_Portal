@@ -1,0 +1,51 @@
+<layouttype>thumbnail</layouttype>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 1[/B]</name> 
+<thumbnail>https://ia601408.us.archive.org/35/items/icon_20201024/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Jigsaw20/M3U/main/Filmy_1.m3u</externallink> 
+<fanart>https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 2[/B]</name> 
+<link>http://ignorame<link>
+<thumbnail>https://ia601408.us.archive.org/35/items/icon_20201024/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Jigsaw20/M3U/main/Filmy_2_19_20.m3u</externallink> 
+<fanart>https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 3[/B]</name> 
+<link>http://ignorame<link> 
+<thumbnail>https://ia601408.us.archive.org/35/items/icon_20201024/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Jigsaw20/M3U/main/Filmy_3_Nowosci.m3u</externallink> 
+<fanart>https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 4[/B]</name> 
+<link>http://ignorame<link> 
+<thumbnail>https://ia601408.us.archive.org/35/items/icon_20201024/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Jigsaw20/M3U/main/Filmy_4_Polskie.m3u</externallink> 
+<fanart>https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 5[/B]</name> 
+<link>http://ignorame<link> 
+<thumbnail>https://ia601408.us.archive.org/35/items/icon_20201024/icon.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/Jigsaw20/M3U/main/Filmy_5_Lektor_Napisy.m3u</externallink> 
+<fanart>https://ia601506.us.archive.org/17/items/fanart_20201024/fanart.jpg</fanart> 
+<info></info> 
+</channel>
+
